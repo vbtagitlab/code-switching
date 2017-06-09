@@ -14,5 +14,5 @@ If you use the dataset, please cite the paper.
 }
 ```
 
-The dataset (nlmaps.test.cs) contains 880 lines of English-German code switching data. 
-Each line corresponds to a logical form in the `test' section of the original NLMap corpus. 
+The dataset [nlmaps.test.cs](https://github.com/vbtagitlab/code-switching/blob/master/nlmaps.test.cs) contains 880 lines of English-German code switching data. 
+Each line corresponds to a logical form in the `test` section of the original NLMap corpus. 
