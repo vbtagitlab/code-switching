@@ -1,5 +1,5 @@
-# code-switching dataset
-Code switching testset for [NLMap corpus](http://www.cl.uni-heidelberg.de/statnlpgroup/nlmaps/) as described in our ConLL 2017 paper, titled "Multilingual Semantic Parsing and Code-switching". 
+# Code-switching test set
+Code switching test set for [NLMap corpus](http://www.cl.uni-heidelberg.de/statnlpgroup/nlmaps/) as described in our ConLL 2017 paper, titled "Multilingual Semantic Parsing and Code-switching". 
 
 If you use the dataset, please cite the paper. 
 ```
