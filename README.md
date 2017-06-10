@@ -18,6 +18,6 @@ The dataset [nlmaps.test.cs](https://github.com/vbtagitlab/code-switching/blob/m
 Each line corresponds to a logical form in the `test` section of the original NLMap corpus. 
 
 
-
+### Reference
 [1] Carolin Haas and Stefan Riezler (2016). A Corpus and Semantic Parser for Multilingual Natural Language Querying of OpenStreetMap. In Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics – Human Language Technologies (NAACL HLT 2016), San Diego, CA.
 
